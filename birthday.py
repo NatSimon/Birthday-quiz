@@ -1,6 +1,6 @@
 """
 birthday.py
-Author: <your name here>
+Author: nathalie
 Credit: <list sources used, if any>
 Assignment:
 
