@@ -1,7 +1,7 @@
 """
 birthday.py
 Author: nathalie
-Credit: <list sources used, if any>
+Credit: googled for elif info
 Assignment:
 
 Your program will ask the user the following questions, in this order:
